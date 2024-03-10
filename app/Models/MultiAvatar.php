@@ -45,9 +45,9 @@ class MultiAvatar
             }
         }
 
-        $resultFinal = $svgString;
+        $svgString;
 
-        return $resultFinal;
+        return $svgString;
     }
 
     public function generate($avatarId, $sansEnv, $ver)
